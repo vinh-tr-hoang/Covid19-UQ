@@ -10,5 +10,5 @@ Some results are documented in documents folder.
 - AlgorithParam.py: setting parameters and likelihood functions
 - SIRparamIden.py: classes for mcmc parameter identification
 - models.py: implementation of SIR and SEIR models
-- mh_mcmc.py: Metropolis-Hasting algorithm
+- mh_mcmc.py: Metropolis-Hasting MCMC algorithm
 - postProcessing.py: post processing (save, load results, and plot)
