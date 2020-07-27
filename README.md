@@ -1,10 +1,10 @@
 # Covid19-UQ
 Uncertainty quantification in modelling of Covid19 pandemic evolution
 
-We identify the parameters of the SIR model using Bayesian approach.
-Data from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University are used for the parameter identification.
+The SIR model's parameters are identified using Bayesian approach.
+The inference is based on the COVID-19 Data provided by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
 
-Some results are collected in documents folder.
+Some results are documented in documents folder.
 ## Code structure
 - main.py:  main file
 - AlgorithParam.py: setting parameters and likelihood functions
